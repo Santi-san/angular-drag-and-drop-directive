@@ -1,0 +1,9 @@
+.dropzone{
+    max-width: 300px;
+    background-color: gray;
+    height: 300px;
+    margin: auto;
+}
+.ondrop{
+    border: 2px dotted black;
+}
